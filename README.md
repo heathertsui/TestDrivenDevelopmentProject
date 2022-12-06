@@ -1,7 +1,6 @@
 Object Oriented Development
 # TestDrivenDevelopmentProject
 
-Assessment
 
 TDD used to write appropriate tests and the implementing code to meet the below requirements. This is through  implementing classes which implement the appropriate service interface provided.**
 
@@ -19,11 +18,3 @@ Interface file 1:
         * When asking the service implementation for all trainees, the trainees should be read from a DatabaseReader object (you do not need to fully implement the database reader’s methods).
         * When removing a trainee by their username, a DatabaseWriter object should be called (you do not need to fully implement the database reader’s methods) from the service implementation.
         * When adding a trainee through the service implementation, the trainee should be passed to a DatabaseWriter object(you do not need to fully implement the database reader)
-
-
-   
-
-<<<<<<< HEAD
-
-=======
->>>>>>> ac8b7bd (First Commit)
