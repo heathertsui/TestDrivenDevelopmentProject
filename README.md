@@ -12,7 +12,8 @@ Interface file 1:
         * “pass” when greater than or equal to 75 but less than 80.
         * “merit” when greater than or equal to 80 but less than 90.
         * “distinction” when greater than or equal to 90 but less than or equal to 100.
-    Interface file 2
+        
+Interface file 2
 * GroupControllerService
     * This service requires an implementing class that fulfils the interface contract. To be successful, the implementing class must return objects of the appropriate type and meet the requirements specified below (you may require some mock objects):
         * When asking the service implementation for all trainees, the trainees should be read from a DatabaseReader object (you do not need to fully implement the database reader’s methods).
