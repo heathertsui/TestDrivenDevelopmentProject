@@ -19,3 +19,4 @@ Interface file 2
         * When asking the service implementation for all trainees, the trainees are read from a DatabaseReader object
         * When removing a trainee by their username, a DatabaseWriter object is called.
         * When adding a trainee through the service implementation, the trainee is passed to a DatabaseWriter object.
+        * Testing of method is achieved by means of mock objects. 
